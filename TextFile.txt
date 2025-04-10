@@ -1,1 +1,1 @@
-https://res.cloudinary.com/dk2ngimlc/image/upload/v1744230532/cld-sample-5.jpg
+http://res.cloudinary.com/dk2ngimlc/image/upload/Alternate_Home_Pic_yzbnug.jpg
