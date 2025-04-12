@@ -1,1 +1,1 @@
-https://res.cloudinary.com/dk2ngimlc/image/upload/v1/samples/animals/cat.jpg
+https://res.cloudinary.com/dk2ngimlc/image/upload/v1/samples/balloons.jpg
